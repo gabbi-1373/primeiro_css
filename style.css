@@ -1,0 +1,42 @@
+h1 {
+    color: maroon;
+}
+
+.portugues {
+    color: darkorange;
+}
+
+#espanhol {
+    color: indigo;
+}
+
+
+
+.display {
+    background-color: lightcoral;
+    padding: 50px;
+    width: 50%;
+}
+
+.display-blue {
+    background-color: cornflowerblue;
+    padding: 50px;
+    width: 50%;
+}
+
+.display-green {
+    background-color: darkolivegreen;
+    padding: 50px;
+    width: 50%;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.row {
+    background-color: firebrick;
+    text-align: center;
+}
